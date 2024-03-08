@@ -1,2 +1,3 @@
-# Movie-Recommender-System-
+# Movie-Recommender-System
 A movie recommendation system is a technological tool or application designed to help users find movies that match their interests, preferences, and viewing habits These systems analyze vast amounts of information about movies, including movies, actors, directors, ratings, reviews , and user interfaces.
+Using different algorithms such as content-based filtering, collaborative filtering, or hybrid approaches, the recommender system provides personalized movie suggestions to users The main goal of a movie recommender system is to enhance the user's movie-watching experience by appropriate and interesting suggestions to him or her , thereby increasing user satisfaction and retention in the movie channel or streaming channels
